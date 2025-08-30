@@ -9,7 +9,7 @@
 </p>
 
 
-<h3 align="center">💻 Web Developer | 🚀 Future MERN-Stack Developer</h3>
+<h3 align="center">💻 Web Developer | 🌐 GOAL - CYBER SECURITY ENGINEER</h3>
 
 
 ### 🚀 About Me  
@@ -17,10 +17,10 @@
 Welcome to my GitHub profile! I'm a passionate **Computer Science Student** exploring the world of **Web Developer,Future MERN-Developer, Python, and AI**.  
 I love building creative projects, Learning New Technologies, and solving real-world problems with code.  
 
-- 📚 Currently learning **HTML, CSS, JavaScript, and Python**  
-- 💡 Exploring **Data Analytics** and **AI tools**  
-- ⚡ Projects: [Expense Tracker](#), and more.
-- 🎯 Goal: Become a skilled **Cyber Security Analyist** by 2027  
+- 📚 Currently learning **AI Agents (n8n)**  
+- 💡 Exploring **AI tools & injections in Attacks**  
+- ⚡ Projects: Going on...
+- 🎯 Goal: Become a skilled **Cyber Security Engineer** by 2027  
 
 
 ### 🛠 Tech Stack 
@@ -37,7 +37,10 @@ I love building creative projects, Learning New Technologies, and solving real-w
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -67,7 +70,7 @@ I love building creative projects, Learning New Technologies, and solving real-w
 
 <p align="center">
   <a href="https://github.com/siddu1199"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.instagram.com/_siddhuuuu_07/"><img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-siddu1199/"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/</a>
   <a href="mailto:siddu1199@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -75,4 +78,3 @@ I love building creative projects, Learning New Technologies, and solving real-w
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ED598,100:36BCF7&height=120&section=footer"/>
 </div>
-
