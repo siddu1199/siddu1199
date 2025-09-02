@@ -14,7 +14,7 @@
 
 ### 🚀 About Me  
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science Student** exploring the world of **Web Developer,Future MERN-Developer, Python, and AI**.  
+Welcome to my GitHub profile! I'm a passionate **Computer Science Student** exploring the world of **Web Developer,Future MERN-Developer, Python, and AI* *.  
 I love building creative projects, Learning New Technologies, and solving real-world problems with code.  
 
 - 📚 Currently learning **AI Agents (n8n)**  
